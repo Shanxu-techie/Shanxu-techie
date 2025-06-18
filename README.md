@@ -44,7 +44,7 @@
 - 🌦️ **Weather Forecast App** – React + Tailwind  
 - 🍱 **Food Recipe UI** – HTML + CSS  
 - 🏠 **Smart Home Automation** – Arduino + sensors (IR, sonar, fan, light, alarm, motor)  
-- 🤖 **Obstacle Avoiding Car** – Arduino + ultrasonic + buzzer
+- 🤖 **Obstacle Avoiding Car** – Arduino + ultrasonic
 
 ---
 
