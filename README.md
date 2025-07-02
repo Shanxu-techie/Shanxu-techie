@@ -11,8 +11,6 @@
 - 💻 Love creating clean, responsive web UIs using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **React**
 - 🤖 Did a robotics course & built smart prototypes using **Arduino**, **IR**, **sonar**, and more
 - ✨ Dabbled in **game dev with Unity** and still exploring fun tech spaces
-- 🎯 Dream: Combine **frontend + hardware** and pursue an **MS in Robotics/IoT**
-- 🌱 Currently learning: React (deep dive) | Python (for robotics) | Arduino sensors
 
 ---
 
@@ -24,7 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend/Tools:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -38,30 +35,9 @@
 
 ---
 
-## 🚀 Projects (Uploading Soon)
-
-- 📚 **Bookstore Website** – Bootstrap + PHP  
-- 🌦️ **Weather Forecast App** – React + Tailwind  
-- 🍱 **Food Recipe UI** – HTML + CSS  
-- 🏠 **Smart Home Automation** – Arduino + sensors (IR, sonar, fan, light, alarm, motor)  
-- 🤖 **Obstacle Avoiding Car** – Arduino + ultrasonic
-
----
-
-## 🎯 Goals for 2025–2027
-
-- 🧪 Complete a robotics-based **Final Year Project**  
-- 💼 Get a **frontend internship** (in progress)  
-- 🧠 Build a portfolio website  
-- ✈️ Get into **MS in Robotics or IoT (NUST, FAST, etc.)**  
-- 🔥 Win at least 1 robotics/tech competition!
-
----
-
 ## 📫 Let’s Connect
 
 - **Email:** shanzarehan495@gmail.com  
-- *More coming soon... like a live portfolio, GitHub repos, and project showcases!*
 
 ---
 
