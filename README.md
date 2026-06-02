@@ -6,7 +6,7 @@ I build Flutter mobile apps and full-stack web projects. Currently expanding int
 
 ---
 
-## 🔧 What I Work With
+## What I Work With
 
 **Mobile:** Flutter · Dart · Provider · REST APIs · Geolocator  
 **Frontend:** HTML5 · CSS3 · JavaScript · React.js · Next.js · Tailwind CSS · shadcn/ui · Bootstrap  
@@ -17,7 +17,7 @@ I build Flutter mobile apps and full-stack web projects. Currently expanding int
 
 ---
 
-## 📱 Flutter Projects
+## Flutter Projects
 | Project | Description |
 |---|---|
 | [KFC Clone App](https://github.com/Shanxu-techie/flutter-projects/tree/main/ecommerce_project) | Food ordering UI — home, menu, cart, checkout |
@@ -29,7 +29,7 @@ I build Flutter mobile apps and full-stack web projects. Currently expanding int
 
 ---
 
-## 🌐 Web Projects
+## Web Projects
 | Project | Stack | Live |
 |---|---|---|
 | [Admin Dashboard](https://github.com/Shanxu-techie/admin-dashboard-project) | HTML · Tailwind · JS · ApexCharts | [Live Demo](https://admin-dashboard-project-tau.vercel.app/) |
@@ -38,6 +38,6 @@ I build Flutter mobile apps and full-stack web projects. Currently expanding int
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shanza%20Rehan-blue)](https://www.linkedin.com/in/shanza-r-821185361/)
 [![Email](https://img.shields.io/badge/Email-shanzarehan495%40gmail.com-red)](mailto:shanzarehan495@gmail.com)
