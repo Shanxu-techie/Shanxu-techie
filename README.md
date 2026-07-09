@@ -20,7 +20,7 @@ I build Flutter mobile apps and full-stack web projects. Currently expanding int
 ## Flutter Projects
 | Project | Description |
 |---|---|
-| [KFC Clone App](https://github.com/Shanxu-techie/flutter-projects/tree/main/ecommerce_project) | Food ordering UI with home, menu, cart, checkout |
+| [Food Ordering App](https://github.com/Shanxu-techie/flutter-projects/tree/main/ecommerce_project) | Food ordering UI with home, menu, cart, checkout |
 | [Weather App](https://github.com/Shanxu-techie/flutter-projects/tree/main/weather_app) | Real-time weather with geolocation |
 | [News App](https://github.com/Shanxu-techie/flutter-projects/tree/main/news_app) | Live news by category via REST API · OpenWeatherMap API|
 | [Tasbeeh Counter](https://github.com/Shanxu-techie/flutter-projects/tree/main/tasbeeh_app) | Prayer counter with sound & vibration |
