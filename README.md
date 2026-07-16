@@ -2,7 +2,7 @@
 
 BSIT Student @ Bahauddin Zakariya University Multan | CGPA 3.90 | Graduating 2027
 
-I build Flutter mobile apps and full-stack web projects. Currently expanding into Next.js and IoT/embedded systems.
+I build Flutter mobile apps and full-stack web projects.
 
 ---
 
