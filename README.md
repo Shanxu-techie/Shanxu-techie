@@ -31,6 +31,23 @@ TypeScript • JavaScript • Dart • Python • PHP • SQL • C++ • C#
 
 ---
 
+## Current Focus
+
+I enjoy learning new technologies by building real projects rather than isolated tutorials.
+
+I'm currently developing a Robot Marketplace where I'm exploring:
+
+- Next.js 16
+- TypeScript
+- Clerk Authentication
+- PostgreSQL & Drizzle ORM
+- Docker
+- GitHub Actions
+- Vitest & Playwright
+- Vercel AI SDK
+
+---
+
 ## Flutter Projects
 | Project | Description |
 |---|---|
