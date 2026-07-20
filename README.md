@@ -1,19 +1,33 @@
 # Hi, I'm Shanza Rehan
 
-BSIT Student @ Bahauddin Zakariya University Multan | CGPA 3.90 | Graduating 2027
+BSIT Student @ Bahauddin Zakariya University, Multan | CGPA 3.90 | Graduating 2027
 
-I build Flutter mobile apps and full-stack web projects.
+I enjoy building full-stack web applications with modern technologies and exploring software architecture, authentication, databases, testing, DevOps, and AI-powered features. I also build Flutter mobile applications.
 
 ---
 
 ## What I Work With
 
-**Mobile:** Flutter · Dart · Provider · REST APIs · Geolocator  
-**Frontend:** HTML5 · CSS3 · JavaScript · React.js · Next.js · Tailwind CSS · shadcn/ui · Bootstrap  
-**Backend & DB:** PHP · MySQL · Oracle DB  
-**Languages:** JavaScript · Python · PHP · SQL · C++ · C# · Dart  
-**Hardware:** Arduino · Embedded C · Sensors  
-**Tools:** Git · GitHub · Linux · VS Code · Android Studio · Vercel  
+### Web
+Next.js • React • TypeScript • Tailwind CSS • shadcn/ui
+
+### Backend
+Node.js • Next.js Route Handlers • Drizzle ORM • PostgreSQL • MySQL • PHP
+
+### Authentication
+Clerk Authentication • Webhooks • Row-level Authorization
+
+### Mobile
+Flutter • Dart • Provider • REST APIs • Geolocator
+
+### Databases
+PostgreSQL • Neon • MySQL • Oracle DB
+
+### DevOps & Testing
+Docker • Docker Compose • GitHub Actions • Vitest • Playwright • Linux • Vercel
+
+### Languages
+TypeScript • JavaScript • Dart • Python • PHP • SQL • C++ • C#
 
 ---
 
@@ -33,7 +47,7 @@ I build Flutter mobile apps and full-stack web projects.
 | Project | Stack | Live |
 |---|---|---|
 | [Admin Dashboard](https://github.com/Shanxu-techie/admin-dashboard-project) | HTML · Tailwind · JS · ApexCharts | [Live Demo](https://admin-dashboard-project-tau.vercel.app/) |
-| [Robot Marketplace](https://github.com/Shanxu-techie/robot-marketplace) | Next.js · shadcn/ui | In progress |
+| [Robot Marketplace](https://github.com/Shanxu-techie/robot-marketplace) | Next.js 16 · TypeScript · Drizzle ORM · PostgreSQL · Clerk · Tailwind CSS · Vercel AI SDK | In progress |
 
 
 ---
