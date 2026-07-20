@@ -2,7 +2,23 @@
 
 BSIT Student @ Bahauddin Zakariya University, Multan | CGPA 3.90 | Graduating 2027
 
-I enjoy building full-stack web applications with modern technologies and exploring software architecture, authentication, databases, testing, DevOps, and AI-powered features. I also build Flutter mobile applications.
+I enjoy building full-stack web applications and learning modern software engineering by implementing real-world projects. I also build Flutter mobile applications.
+
+---
+
+## Current Focus
+
+I enjoy learning new technologies by building real projects rather than following isolated tutorials.
+
+I'm currently building a Robot Marketplace where I'm implementing:
+
+- Authentication & authorization with Clerk
+- Database design using PostgreSQL & Drizzle ORM
+- API design and request validation
+- Automated testing with Vitest & Playwright
+- CI/CD with GitHub Actions
+- Containerization using Docker
+- AI-powered recommendations with the Vercel AI SDK
 
 ---
 
@@ -12,7 +28,7 @@ I enjoy building full-stack web applications with modern technologies and explor
 Next.js • React • TypeScript • Tailwind CSS • shadcn/ui
 
 ### Backend
-Node.js • Next.js Route Handlers • Drizzle ORM • PostgreSQL • MySQL • PHP
+Node.js • Next.js Route Handlers • Drizzle ORM • Zod • PostgreSQL • MySQL • PHP
 
 ### Authentication
 Clerk Authentication • Webhooks • Row-level Authorization
@@ -28,23 +44,6 @@ Docker • Docker Compose • GitHub Actions • Vitest • Playwright • Linux
 
 ### Languages
 TypeScript • JavaScript • Dart • Python • PHP • SQL • C++ • C#
-
----
-
-## Current Focus
-
-I enjoy learning new technologies by building real projects rather than isolated tutorials.
-
-I'm currently developing a Robot Marketplace where I'm exploring:
-
-- Next.js 16
-- TypeScript
-- Clerk Authentication
-- PostgreSQL & Drizzle ORM
-- Docker
-- GitHub Actions
-- Vitest & Playwright
-- Vercel AI SDK
 
 ---
 
